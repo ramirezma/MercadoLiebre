@@ -1,0 +1,46 @@
+.create-form {
+    padding: 20px 15px;
+}
+
+.control-formulario {
+    margin-bottom: 15px;
+    padding: 10px;
+
+}
+
+.control-formulario label {
+    margin-bottom: 5px;
+    font-style: italic;
+    display: block;
+
+}
+
+.control {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+
+#perfil {
+    text-align: left;
+}
+
+#intereses {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.interest {
+    padding: 10px 20px 0;
+}
+
+.boton-formulario {
+    background-color: #39b54a;
+    border: none;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
